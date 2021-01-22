@@ -38,6 +38,14 @@ David Taubman, creator/owner of Kakadu Software stated in the online discussion 
 The original source for this example can be found [here](http://webservices.itcs.umich.edu/mediawiki/dlxs14/index.php/Image_Class_and_JPEG2000).
 
 ## Example 2
+From the kakadu command line free tools:
+
+```
+kdu_compress -i in.tif -o out.jp2 Creversible=yes
+```
+
+The original source for this example can be found [here](http://gdcm.sourceforge.net/wiki/index.php/Tools/kdu_compress).
+## Example 3
 ```
 -------------------------------------------------------------------------------
 Usage Examples for Demonstration Applications Supplied with Kakadu V8.0.5
